@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "The Willows",
+        "address": "Parque Royal, 28017 Colima, Col.",
+        "people":"3",
+        "toilets":"2",
+        "area": "150",
+        "rental": "$350",
+        "reviwe": "4.2",
+        "imageURL": "https://i.ebayimg.com/images/g/YOAAAOSwBUdgLoBJ/s-l400.jpg"
+        
+        
+    },
+    {
+        "id": 2,
+        "name": "Park Royal",
+        "address": "Trending",
+        "people":"3",
+        "toilets":"2",
+        "area": "150",
+        "rental": "$350",
+        "reviwe": "4.2",
+        "imageURL": "https://propiedadescom.s3.amazonaws.com/files/292x200/avenida-constitucion-0-parque-royal-colima-colima-10203050-foto-01.jpg"
+        
+        
+    },
+    {
+        "id": 3,
+        "name": "The Willows",
+        "address": "Trending",
+        "people":"3",
+        "toilets":"2",
+        "area": "150",
+        "rental": "$350",
+        "reviwe": "4.2",
+        "imageURL": "https://i.ebayimg.com/images/g/YOAAAOSwBUdgLoBJ/s-l400.jpg"
+        
+        
+    },
+    {
+        "id": 4,
+        "name": "Park Royal",
+        "address": "Trending",
+        "people":"3",
+        "toilets":"2",
+        "area": "150",
+        "rental": "$350",
+        "reviwe": "4.2",
+        "imageURL": "https://propiedadescom.s3.amazonaws.com/files/292x200/avenida-constitucion-0-parque-royal-colima-colima-10203050-foto-01.jpg"
+        
+        
+    },
+    {
+        "id": 5,
+        "name": "Parotas",
+        "address": "Trending",
+        "people":"3",
+        "toilets":"2",
+        "area": "150",
+        "rental": "$350",
+        "reviwe": "4.2",
+        "imageURL": "https://imganuncios.mitula.net/residencia_en_condominio_las_parotas_con_alberca_en_venta_o_renta_5190030614862752251.jpg"
+        
+        
+    }
+
+]

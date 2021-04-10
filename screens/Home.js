@@ -7,13 +7,14 @@ import {Text, StyleSheet, View} from 'react-native'
 export default function Home(navigation) {
     return(
         <View>
-            <View>
+            <View style={styles.container}>
                 <FlatListView />
             </View>
         </View>
     );
 }
-
 const styles = StyleSheet.create({
-
+    container: {
+        backgroundColor: 'black',
+    }
 });
